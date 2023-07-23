@@ -1,0 +1,24 @@
+{
+    "name":"infinite",
+    "title":"Infinite Engine",
+    "descriptor":"A System designed to be easy to pick up but deep enough to bring the infinite realms of your imagination to life!",
+    "author":"Mac",
+    "version":"0.01",
+    "minumumCoreVersion":"",
+    "CompatibleCoreVersion":"",
+
+    "esmodules":[
+        "ieng.js"
+
+    ],
+
+    "styles":[
+        "ieng.css"
+
+    ],
+
+    "gridDistance": 1,
+    "gridUnits":"m",
+    "primaryTokenAttribute":"health"
+
+}
