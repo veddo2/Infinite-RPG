@@ -1,0 +1,57 @@
+{
+    "Actor":[
+
+
+    ],
+
+    "Items":{
+        "types":[
+            "item",
+            "trinket",
+            "weapon",
+            "vehicle"
+        ],
+    "templates":{
+        "itemDescription":{
+            "description":""
+            },
+        "itemWeight":{
+            "weight":""
+            },
+        "itemDurability":{
+            "durability":""
+            }
+        }
+    },
+    "item":{
+        "templates":[
+            "itemDescription",
+            "itemWeight",
+            "itemDurability"
+        ]
+    },
+    "trinket":{
+        "templates":[
+            "itemDescription"
+        ]
+    },
+    "weapon":{
+        "templates":[
+            "itemDescription",
+            "itemWeight",
+            "itemDurability"
+        ],
+        "weaponType":"",
+        "weaponDamage":"",
+        "weaponReloadTime":0
+    },
+    "vehicle":{
+        "templates":[
+            "itemDescription",
+            "itemDurability"
+        ],
+        "vehicleHandling": 0,
+        "vehicleComplexity": 0,
+        "Personal":false
+    }
+}
