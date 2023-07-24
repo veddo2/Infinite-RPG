@@ -20,7 +20,7 @@
     "gridDistance": 1,
     "gridUnits":"m",
     "primaryTokenAttribute":"health",
-    "manifest":"https://raw.githubusercontent.com/veddo2/Infinite-RPG/main/system.json",
+    "manifest":"https://githubusercontent.com/veddo2/Infinite-RPG/main/system.json",
     "download":"https://github.com/veddo2/Infinite-RPG/archive/refs/tags/Foundry.zip"
 
 }
